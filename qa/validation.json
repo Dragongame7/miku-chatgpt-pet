@@ -1,0 +1,79 @@
+{
+  "ok": true,
+  "atlas": "C:\\Users\\TATSU\\Documents\\Codex\\2026-10-08\\ch\\work\\miku\\final\\spritesheet-extended.png",
+  "encoded_bytes": 2859206,
+  "sha256": "69683675057bf7e89edd83774bfa896b7ab5d4b1b64981355ef3301cb16061c0",
+  "jump": {
+    "idle_baseline": 203,
+    "jump_baselines": [
+      202,
+      187,
+      148,
+      188,
+      202
+    ],
+    "airborne_lift_pixels": 54,
+    "landing_delta_pixels": 1
+  },
+  "look_registration": {
+    "neutral_center_x": 96.0,
+    "look_centers_x": [
+      95.5,
+      95.0,
+      94.0,
+      93.5,
+      94.5,
+      94.0,
+      96.0,
+      96.5,
+      95.5,
+      96.5,
+      96.5,
+      96.0,
+      96.0,
+      96.0,
+      96.0,
+      96.5
+    ],
+    "look_widths": [
+      139,
+      140,
+      142,
+      141,
+      133,
+      138,
+      136,
+      135,
+      141,
+      139,
+      137,
+      136,
+      134,
+      136,
+      136,
+      137
+    ],
+    "maximum_center_drift_pixels": 2.5,
+    "maximum_width_ratio": 1.0676691729323309
+  },
+  "errors": [],
+  "warnings": [
+    "look direction 067.5 accepted with a reviewed warning",
+    "look direction 112.5 accepted with a reviewed warning",
+    "look direction 157.5 accepted with a reviewed warning",
+    "look direction 247.5 accepted with a reviewed warning",
+    "look direction 292.5 accepted with a reviewed warning",
+    "look direction 337.5 accepted with a reviewed warning",
+    "000 has transparent interior hole rows (y=175, y=176)",
+    "045 has transparent interior hole rows (y=175, y=176)",
+    "067.5 has transparent interior hole rows (y=160, y=175, y=176)",
+    "112.5 has transparent interior hole rows (y=177)",
+    "135 has transparent interior hole rows (y=161)",
+    "180 has transparent interior hole rows (y=161)",
+    "202.5 has transparent interior hole rows (y=161)",
+    "225 has transparent interior hole rows (y=160, y=161)",
+    "315 has transparent interior hole rows (y=161)",
+    "067.5->090 diff is a local outlier (2617 pixels vs neighbor average 1628)",
+    "157.5->180 diff is a local outlier (2590 pixels vs neighbor average 1424)"
+  ]
+}
